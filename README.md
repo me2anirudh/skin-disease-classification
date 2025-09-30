@@ -12,7 +12,7 @@ The dataset is divided into seven classes of skin diseases which fall into the c
 - vascular Skin Lesions
 - Dermatofibroma
 
-![Prediction](./images/analyze_sample.png)
+
 
 ## Objectives
 The aim of the project is to quickly identify the top three highest probability diagnoses on the given image skin disease image of the user. It will also be a great help for giving knowledge to both patient and the doctor. By using this system, initial findings of the skin disease can be efficiently and effectively diagnosed by the general practitioners thus possibly reducing further complication of the arising skin disease.
